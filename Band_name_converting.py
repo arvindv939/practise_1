@@ -1,0 +1,5 @@
+print("Welcome to the project 1. These is the band name generator program.")
+name=input("What is your name? \n")
+city=input("Which city you are born? \n")
+star_name=input("What is your favorite star name? \n")
+print("hi I am "+name+" from "+city+" your band name could be "+city+" "+star_name)
